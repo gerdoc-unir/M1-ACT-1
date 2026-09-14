@@ -1,1 +1,2 @@
-
+## Clasificador que reconoce entre razas de perros y gatos 
+El presente documento trata de documentar el entrenamiento de un clasificador capaz de reconocer razas de perros y gatos en imágenes alcanzando un accuracy del 85.79% trabajando cada integrante del equipo con diferentes modelos, como son: sigmoid, tanh, softmax; encontrándonos con distintas dificultades, una de las principales era incrementando el margen de error al intentar ejecutar la unión, teniendo que reiniciar la instancia para que funcionara de manera correcta. 
